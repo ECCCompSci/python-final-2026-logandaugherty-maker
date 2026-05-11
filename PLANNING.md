@@ -1,16 +1,16 @@
 # 📝 Project Planning Worksheet
 
-**Name:** ___________________________  
-**Date:** ___________________________  
-**Project Title:** ___________________________
+**Name:** _________logan__________________  
+**Date:** ______________?_____________  
+**Project Title:** ___________grade calculator________________
 
 ---
 
 ## Step 1 — What will your program do?
 
 *Write 2–3 sentences describing your project. What happens when the user runs it? What will they see or do?*
-
-> 
+it will take your grade and give you an output
+> depending on your grade it will give a qout
 
 ---
 
@@ -18,9 +18,9 @@
 
 *List every `input()` question you plan to use.*
 
-1. 
-2. 
-3. 
+1. what is your grade
+2. ?
+3. ?
 
 ---
 
